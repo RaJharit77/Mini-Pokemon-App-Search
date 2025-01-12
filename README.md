@@ -1,9 +1,9 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # Mini-Pokemon-App-Search
+Ceci est une repository pour la mini application de recherche de Pokémon via une API nommé PokéAPI de Pokémon et de l'afficher
+après avec son id en utilisant <mark>Vite.JS</mark> + <mark>React.JS</mark>, <mark>Tailwind CSS</mark> en front-end et <mark>Axios</mark> pour 
+la récupération des données via l'api nommé <mark>PokéAPI</mark>.
+
+# Le lien de l'api de Pokémon
+Le lien de l'api de Pokémon:
+
+PokéAPI: https://pokeapi.co/
